@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/htmleditor/static/css/main.24b3d75a.css",
+    "main.js": "/htmleditor/static/js/main.59e08d4c.js",
+    "index.html": "/htmleditor/index.html",
+    "main.24b3d75a.css.map": "/htmleditor/static/css/main.24b3d75a.css.map",
+    "main.59e08d4c.js.map": "/htmleditor/static/js/main.59e08d4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b3d75a.css",
+    "static/js/main.59e08d4c.js"
+  ]
+}
